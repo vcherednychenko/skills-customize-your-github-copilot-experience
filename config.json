@@ -77,6 +77,30 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "api-testing-reliability-pytest",
+      "title": "API Testing and Reliability with Pytest",
+      "description": "Design robust tests for a FastAPI service and improve reliability through edge-case validation.",
+      "path": "assignments/api-testing-reliability-pytest",
+      "dueDate": "2026-05-28",
+      "attachments": [
+        {
+          "name": "Starter API Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Scaffold",
+          "file": "test_api.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
